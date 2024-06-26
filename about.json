@@ -1,14 +1,19 @@
-                        <h5 class=" text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+
+{
+  "data": {
+    "introduction": "   <h5 class=' text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>
                             <div> Jen </div>
                         </h5>
-                        <h4 class="mb-4 text-md font-semibold tracking-tight text-gray-900 dark:text-gray-200">
+                        <h4 class='mb-4 text-md font-semibold tracking-tight text-gray-900 dark:text-gray-200'>
                             <div> Data-Scientist / Full-stack / Data-Visualization </div>
                         </h4>
 
-                        <p class="text-justify indent-8 mb-3  font-normal text-gray-500 dark:text-slate-300">
+                        <p class='text-justify indent-8 mb-3  font-normal text-gray-500 dark:text-slate-300'>
                             I am Ji-Jen, senior data scientist with a passion for full-stack development, dedicated to
                             building
                             data-driven web applications. Proficient in Python, SQL, and JavaScript, with a strong
                             understanding of data visualization and machine learning. Experienced with Linux
                             environments, always developing and deploying solutions within Linux.
-                        </p>
+                        </p>"
+  }
+}
